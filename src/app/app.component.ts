@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'imp-angular';
+  title = 'Hey ng6 Developer ! ';
+
 }
